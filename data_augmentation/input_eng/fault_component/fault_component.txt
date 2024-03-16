@@ -1,0 +1,10 @@
+engine
+window
+transmission
+airbag
+brakes
+fuel pump
+steering system
+battery
+alternator
+radiator

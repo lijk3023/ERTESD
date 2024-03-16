@@ -1,0 +1,9 @@
+leakage
+overheating
+blockage
+corrosion
+damage
+pressure loss
+coolant contamination
+fan malfunction
+clogging

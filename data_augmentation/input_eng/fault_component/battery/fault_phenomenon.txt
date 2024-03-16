@@ -1,0 +1,10 @@
+Discharge failure
+Overheating
+Short circuit
+Low voltage
+Capacity degradation
+Swelling
+Leakage
+Slow charging
+Rapid self-discharge
+High internal resistance

@@ -1,0 +1,10 @@
+Noise
+Vibration
+Overheating
+Soft pedal
+Brake fade
+Pulling to one side
+Brake grab
+Spongy pedal
+Brake pulsation
+Loss of braking power

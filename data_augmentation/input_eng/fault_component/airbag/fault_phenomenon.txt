@@ -1,0 +1,10 @@
+Deployment failure
+Inflation delay
+Incomplete inflation
+Over-inflation
+Non-deployment
+Premature deployment
+Late deployment
+Unexpected deployment
+Sensor malfunction
+Wiring issues
